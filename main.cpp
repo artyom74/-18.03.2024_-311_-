@@ -32,7 +32,7 @@ static void bubbleSort(int arr[], int size) {
         count = 0;
     }
 }
-
+ 
 int main() {
     setlocale(LC_ALL, "ru");
 
